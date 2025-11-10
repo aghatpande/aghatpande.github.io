@@ -1,3 +1,4 @@
+*.xcf
 _site
 .bundle
 .sass-cache
