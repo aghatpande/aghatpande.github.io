@@ -1,0 +1,134 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Ambarish S. Ghatpande, PhD",
+    "label": "University of Pennsylvania Perelman School of Medicine",
+    "email": "ambarish.ghatpande@pennmedicine.upenn.eduSUMMARYBrain",
+    "url": "https://github.com/aghatpande/HIPPIE•Cell",
+    "summary": "Brain researcher with a background in ion channel biophysics, synaptic physiology and neuronal circuits and surgical neu-rophysiology. Current interests are in acquiring and analyzing high-density silicon probe recordings from cortical and hip-pocampal organoids in vitro and after transplantation into rat and pig brains; analyzing neural population dynamics in be-having model mammalian species (rat, pig) and organoids.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "HIPPIE•Cell",
+        "url": "https://github.com/aghatpande/HIPPIE•Cell"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=wXXa7wMAAAAJ1.Ghatpande"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "Senior Research Investigator",
+      "startDate": "2023-07-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Duties, responsibilities, skills",
+        "team member in projects involving human brain organoid transplantation in rat and pig cortex",
+        "responsible for in vitro characterization of human cortical and hippocampal organoids using extracellular recordings with multi-electrode silicon probes",
+        "contributing to secondary analysis of neural population dynamics of behaving rats and pigsAccomplishments",
+        "set up an analysis pipeline of silicon probe recordings from in vitro and transplanted organoids from acquiring raw data, preprocessing using SpikeInterface, spike sorting with Kilosort4, post-processing using multiple Python based tools",
+        "set up data acquisition with silicon probes from in vitro and in vivo human cortical and hippocampal organoidsSelf-employed (06/2021 - July 2023)Projects",
+        "Analysis of publicly available high-dimensional M/ EEG data with deep learning and graph neural networks to develop classiﬁers for seizures and cognitive tasks",
+        "command line based retrieval of large EEG datasets using zsh, MNE-Python, Jupiter notebooks and VSCode",
+        "exploratory data analysis using PostgreSQL, R / RStudio and Python",
+        "MNE-Python based pre-processing of data to identify and remove artifacts, baseline drift, eye-blinks etc.",
+        "PyTorch and TensorFlow based deep learning models to classify EEG data",
+        "collaborations with other developers for a hackathon Accomplishments"
+      ]
+    },
+    {
+      "name": "Sentient Medical Systems",
+      "position": "Surgical neurophysiologist I and II",
+      "startDate": "2015-02-01",
+      "endDate": "2017-05-01",
+      "summary": "",
+      "highlights": [
+        "specialist clinician, member of the Southeastern PA & southern NJ intra-operative neurophysiology teamsAccomplishments",
+        "successfully completed the intra-operative neurophysiological monitoring clinical training program",
+        "clinical certiﬁcation from ABRET CNIM # 3569 (abret.org)Self-employed (07/2012 – 02/2015)Accomplishments",
+        "developed and setup high-throughput image acquisition and analysis to investigate the chemosensory behavior of plant pathogenic nematodes (Meloidogyne sp.) Research Associate (07/2011 – 07/2012)UNIVERSITY OF MARYLAND, Baltimore MDDuties, responsibilities and skills",
+        "Established optogenetics infrastructure",
+        "investigated olfactory bulb glomerular circuits using optogenetic and pharmacological tools",
+        "stereotactic surgery",
+        "viral vector design",
+        "key member of a multi-institutional team investigating the synaptic mechanisms underlying cholinergic modulation of olfactory perception Accomplishments",
+        "contributed to developing methods of optically stimulating cholinergic inputs to the olfactory bulb",
+        "unpublished observations of cholinergic modulation of rhythmic and desynchronized spiking of periglomerular neuronsResearch Associate (03/2005 – 02/2011)MONELL CHEMICAL SENSES CENTER, Philadelphia P ADuties, responsibilities and skills",
+        "actively contributed to the cross-disciplinary scientiﬁc atmosphere of the institute focused on chemosensory psychology and neuroscience"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Molecular Biophysics Unit, Indian Institute of Science, Bangalore, India M.Sc, (1991-1993), Zoology - Savitribai Phule Pune University, Pune, IndiaB.Sc. (1988-1991), Microbiology - Savitribai Phule Pune University, Pune, India",
+      "area": "Molecular Biophysics",
+      "studyType": "PhD",
+      "startDate": "1993-01-01",
+      "endDate": "2000-01-01",
+      "score": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Competition for binding between veratridine and KIFMK: an open channel block-ing peptide of the RIIA sodium channel",
+      "publisher": "J. Membr. Biol.",
+      "releaseDate": "1997-01-01",
+      "url": "https://scholar.google.com/citations?hl=en&user=wXXa7wMAAAAJ1.Ghatpande",
+      "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "FELLOWSHIPS•5 year service award, Specialtycare 2020•Employee service award, Monell Chemical Senses Center 2010 •Research Fellowship, Council for Industrial and Scientiﬁc Research, India, 1993-1999",
+      "date": "2020-01-01",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Neuroscience & Electrophysiology",
+      "level": "",
+      "keywords": [
+        "Silicon probe recordings",
+        "SpikeInterface",
+        "Kilosort4",
+        "Population dynamics",
+        "Optogenetics",
+        "IOM",
+        "EEG/MEG"
+      ]
+    },
+    {
+      "name": "Data & ML",
+      "level": "",
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "PostgreSQL",
+        "R",
+        "MNE-Python",
+        "GitHub",
+        "VS Code"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "HIPPIE",
+      "url": "https://github.com/aghatpande/HIPPIE•Cell",
+      "summary": "Open research and tooling around cell assemblies and neural population analysis; contributions showcased at NeuroDataRehack 2025.",
+      "highlights": [
+        "DANDI datasets",
+        "Domain adaptation",
+        "Assembly detection"
+      ]
+    }
+  ]
+}
