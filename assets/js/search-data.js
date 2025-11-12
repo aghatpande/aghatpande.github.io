@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("https://www.linkedin.com/in/ambarishghatpande", "_blank");
         },
       },{
         id: 'social-scholar',
