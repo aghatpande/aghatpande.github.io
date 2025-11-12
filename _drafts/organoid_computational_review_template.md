@@ -7,32 +7,39 @@
 ## SECTION 1: Defining Computational Capability in Neural Systems (~2500 words)
 
 ### 1.1 Introduction to Neural Computation
+
 **What to cover:**
+
 - Historical perspectives on brain computation (from McCulloch-Pitts to modern frameworks)
 - Why "computation" is a useful but contested metaphor for neural function
 - The challenge of defining computation in biological vs artificial systems
 
 **Evidence to search for:**
+
 - Theoretical neuroscience papers defining neural computation
 - Reviews on computational neuroscience frameworks
 - Papers discussing the "computational brain" metaphor
 
 **Search terms:**
+
 - "neural computation definition"
 - "brain as computer metaphor"
 - "computational neuroscience frameworks"
 - "information processing brain"
 
 **Key databases:**
+
 - PubMed, Web of Science, Google Scholar
 - Check Annual Review of Neuroscience volumes 2015-2024
 
 **Critical evaluation criteria:**
+
 - Are definitions operationally testable?
 - Do multiple independent frameworks converge?
 - Are there empirical validation studies?
 
 **Citation placeholder format:**
+
 > [CITE: Theoretical framework paper, e.g., Computational Neuroscience textbook or review]
 > [CITE: Empirical validation study]
 
@@ -41,23 +48,27 @@
 ### 1.2 Information Processing Capacity
 
 **What to cover:**
+
 - Shannon information theory applied to neural systems
 - Mutual information between inputs and outputs
 - Channel capacity of neurons and neural circuits
 - Temporal resolution and bandwidth
 
 **Evidence to search for:**
+
 - Studies measuring information content in neural spike trains
 - Papers calculating channel capacity of cortical neurons
 - Comparative studies across species or brain regions
 
 **Search terms:**
+
 - "mutual information neural coding"
 - "channel capacity cortical neurons"
 - "information theory spike trains"
 - "neural bandwidth"
 
 **Key papers to find:**
+
 - Classic papers by Fred Rieke, Rob de Ruyter van Steveninck on neural information theory
 - Studies using direct electrical stimulation to measure information capacity
 - Papers measuring stimulus reconstruction from neural activity
@@ -69,6 +80,7 @@
 □ Control for recording artifacts and sampling biases
 
 **Notes on evidence gaps:**
+
 - [Note if: Limited data from human cortex specifically]
 - [Note if: Disagreement between theoretical and empirical estimates]
 
@@ -77,6 +89,7 @@
 ### 1.3 Network Complexity Metrics
 
 **What to cover:**
+
 - Graph theory measures (clustering coefficient, path length, modularity)
 - Small-world and scale-free properties
 - Hierarchical organization
@@ -84,18 +97,21 @@
 - Rich-club organization
 
 **Evidence to search for:**
+
 - Connectomics papers (C. elegans, Drosophila, mouse, human)
 - fMRI and MEG studies of functional connectivity
 - Electron microscopy reconstruction studies
 - Graph theory analyses of neural networks
 
 **Search terms:**
+
 - "connectome graph theory"
 - "small-world network brain"
 - "rich club organization cortex"
 - "hierarchical modularity neural networks"
 
 **Key studies to locate:**
+
 - Human Connectome Project publications
 - Mouse connectome papers from Allen Institute
 - Graph theory analyses by Olaf Sporns, Ed Bullmore
@@ -111,6 +127,7 @@
 ### 1.4 Signal Integration and Computation
 
 **What to cover:**
+
 - Dendritic computation and nonlinear integration
 - Synaptic integration rules (linear summation vs nonlinear)
 - Coincidence detection and temporal windows
@@ -118,12 +135,14 @@
 - Nonlinear neural computations (XOR, feature binding)
 
 **Evidence to search for:**
+
 - Dendritic recording studies (patch-clamp, calcium imaging)
 - Two-photon imaging of dendritic integration in vivo
 - Computational modeling studies validated by experiment
 - Studies on cortical computation at the single-cell level
 
 **Search terms:**
+
 - "dendritic computation"
 - "nonlinear integration dendrites"
 - "synaptic integration cortical neurons"
@@ -131,6 +150,7 @@
 - "population coding"
 
 **Key experimental approaches:**
+
 - Simultaneous somatic and dendritic recordings
 - Optogenetic manipulation of specific inputs
 - Compartmental modeling matched to morphology
@@ -146,6 +166,7 @@
 ### 1.5 Plasticity and Learning Capacity
 
 **What to cover:**
+
 - Short-term plasticity (facilitation, depression)
 - Long-term potentiation (LTP) and depression (LTD)
 - Spike-timing-dependent plasticity (STDP)
@@ -155,6 +176,7 @@
 - Learning rules and storage capacity
 
 **Evidence to search for:**
+
 - Classic LTP/LTD papers (Bliss & Lømo onwards)
 - STDP experimental characterizations
 - In vivo plasticity studies
@@ -162,6 +184,7 @@
 - Imaging studies of structural plasticity
 
 **Search terms:**
+
 - "synaptic plasticity rules"
 - "STDP cortical neurons"
 - "learning capacity neural networks"
@@ -169,6 +192,7 @@
 - "homeostatic plasticity"
 
 **Key considerations:**
+
 - Differences between in vitro and in vivo plasticity
 - Age/development dependence
 - Layer-specific and cell-type-specific rules
@@ -185,6 +209,7 @@
 ### 1.6 Temporal Dynamics and Time Constants
 
 **What to cover:**
+
 - Range of time constants in neural processing (ms to hours/days)
 - Neural oscillations (delta, theta, alpha, beta, gamma)
 - Slow wave dynamics
@@ -193,12 +218,14 @@
 - Critical dynamics and avalanches
 
 **Evidence to search for:**
+
 - Electrophysiology studies characterizing temporal dynamics
 - MEG/EEG studies of oscillations
 - Calcium imaging studies with different time resolutions
 - Studies on neuronal avalanches and criticality
 
 **Search terms:**
+
 - "neural oscillations function"
 - "time constants neural processing"
 - "neuronal avalanches"
@@ -206,6 +233,7 @@
 - "temporal hierarchy cortex"
 
 **Important papers:**
+
 - György Buzsáki's work on oscillations
 - John Beggs on criticality and avalanches
 - Studies measuring response latencies and integration windows
@@ -221,6 +249,7 @@
 ### 1.7 Energy Efficiency Metrics
 
 **What to cover:**
+
 - ATP consumption per spike
 - Energy costs of synaptic transmission
 - Metabolic efficiency compared to artificial systems
@@ -228,18 +257,21 @@
 - Thermodynamic limits on computation
 
 **Evidence to search for:**
+
 - Studies measuring metabolic costs of neural activity
 - fMRI/PET metabolic imaging
 - Comparative energy analyses (brain vs computer)
 - Theoretical papers on energy-efficient coding
 
 **Search terms:**
+
 - "energy consumption neural activity"
 - "metabolic cost action potential"
 - "sparse coding efficiency"
 - "thermodynamic limits computation"
 
 **Key studies:**
+
 - Simon Laughlin's work on energy efficiency
 - Studies using 2-deoxyglucose or other metabolic markers
 - Comparative analyses of biological vs silicon computation
@@ -255,6 +287,7 @@
 ### 1.8 Synthesis: Operational Definition of Computational Capability
 
 **What to cover:**
+
 - Integrating the above dimensions into measurable metrics
 - Trade-offs between different aspects (speed vs energy, capacity vs plasticity)
 - What can be measured in organoids vs intact tissue
@@ -262,6 +295,7 @@
 - Limitations and caveats
 
 **Evidence to synthesize:**
+
 - Cross-reference all previous subsections
 - Look for integrative reviews
 - Identify gaps where evidence is lacking
@@ -279,6 +313,7 @@
 ### 2.1 Cell Density and Composition
 
 **What to cover:**
+
 - Neuron density in human cortex (by layer, region)
 - Neuron density in organoids (by protocol, age)
 - Glia/neuron ratios
@@ -286,12 +321,14 @@
 - Regional identity and patterning
 
 **Evidence to search for:**
+
 - Histological studies quantifying cell density
 - Single-cell RNA-seq studies of organoids vs fetal/adult cortex
 - Immunohistochemistry characterizing cell types
 - Comparative studies across organoid protocols
 
 **Search terms:**
+
 - "cortical organoid cell composition"
 - "neuron density human cortex"
 - "single cell RNA-seq organoids"
@@ -299,11 +336,13 @@
 - "glia organoid"
 
 **Key databases:**
+
 - Allen Brain Atlas
 - Human Cell Atlas
 - Single-cell data repositories
 
 **Critical comparisons needed:**
+
 - Organoid vs fetal cortex (matched developmental stage)
 - Organoid vs adult cortex
 - Protocol-to-protocol variability
@@ -325,6 +364,7 @@
 ### 2.2 Layered Architecture and Cytoarchitecture
 
 **What to cover:**
+
 - Normal cortical lamination (layers I-VI)
 - Layer-specific markers and cell types
 - Radial organization in organoids
@@ -332,18 +372,21 @@
 - Disruptions in organization (rosettes, irregular patterns)
 
 **Evidence to search for:**
+
 - Papers characterizing cortical layer markers
 - Organoid papers showing layer-specific markers
 - Studies quantifying spatial organization
 - 3D reconstruction and analysis papers
 
 **Search terms:**
+
 - "cortical lamination organoid"
 - "layer markers cortex"
 - "cytoarchitecture organoid"
 - "rosette formation organoid"
 
 **Key techniques to look for:**
+
 - Immunostaining for layer markers (Tbr1, Ctip2, Satb2, etc.)
 - In situ hybridization
 - Spatial transcriptomics
@@ -360,6 +403,7 @@
 ### 2.3 Connectivity Patterns: Local and Long-Range
 
 **What to cover:**
+
 - Local connectivity in cortex (within columns, between layers)
 - Long-range connectivity (cortico-cortical, subcortical)
 - Connectivity in organoids (local, absence of long-range)
@@ -367,6 +411,7 @@
 - Connection probability and specificity
 
 **Evidence to search for:**
+
 - Electron microscopy connectomics data
 - Paired recording studies measuring connectivity
 - Viral tracing studies
@@ -374,6 +419,7 @@
 - Organoid connectivity studies
 
 **Search terms:**
+
 - "cortical connectivity local"
 - "synaptic density cortex"
 - "organoid synapse formation"
@@ -381,6 +427,7 @@
 - "paired recordings organoid"
 
 **Important techniques:**
+
 - Electron microscopy (EM) reconstruction
 - Multi-electrode array recordings
 - Paired patch-clamp
@@ -402,6 +449,7 @@
 ### 2.4 Vascularization and Metabolic Support
 
 **What to cover:**
+
 - Vascular architecture in normal cortex
 - Oxygen and nutrient gradients
 - Absence/limitation of vasculature in organoids
@@ -410,12 +458,14 @@
 - Emerging vascularization strategies
 
 **Evidence to search for:**
+
 - Studies on cortical blood flow and metabolism
 - Papers measuring oxygen gradients in organoids
 - Cell death and viability assessments
 - Papers on vascularized organoids or organ-on-chip approaches
 
 **Search terms:**
+
 - "cortical vasculature"
 - "organoid hypoxia"
 - "necrotic core organoid"
@@ -423,6 +473,7 @@
 - "oxygen diffusion limit tissue"
 
 **Key measurements:**
+
 - Diffusion limits for oxygen (~100-200 μm)
 - Cell viability vs distance from surface
 - Metabolic markers (HIF1α, etc.)
@@ -439,6 +490,7 @@
 ### 2.5 Size Constraints and Scaling
 
 **What to cover:**
+
 - Typical organoid sizes (1-4mm diameter)
 - Size vs age relationships
 - Physical limits on growth
@@ -446,18 +498,21 @@
 - Implications for network size and complexity
 
 **Evidence to search for:**
+
 - Papers reporting organoid sizes over time
 - Theoretical papers on tissue engineering size limits
 - Studies attempting to grow larger organoids
 - Allometric scaling studies in neuroscience
 
 **Search terms:**
+
 - "organoid size growth"
 - "tissue engineering size limits"
 - "cortical scaling laws"
 - "neuron number cortex human"
 
 **Quantitative data needed:**
+
 - Growth curves (diameter vs time)
 - Total cell numbers in organoids vs cortical pieces
 - Surface area to volume considerations
@@ -474,12 +529,14 @@
 ### 2.6 Synthesis: Structural Constraints on Computation
 
 **What to cover:**
+
 - How each structural difference impacts computational capability
 - Quantitative estimates of computational impact where possible
 - Which differences are fundamental vs potentially addressable
 - Summary table comparing key structural features
 
 **Integration required:**
+
 - Connect structural to functional consequences
 - Prioritize differences by computational impact
 - Identify which differences have strong vs weak evidence
@@ -491,6 +548,7 @@
 ### 3.1 Electrophysiological Activity Patterns
 
 **What to cover:**
+
 - Spontaneous activity in cortex (UP/DOWN states, oscillations)
 - Spontaneous activity in organoids
 - Firing rates and patterns (regular, burst, irregular)
@@ -498,12 +556,14 @@
 - Development of activity patterns
 
 **Evidence to search for:**
+
 - In vivo electrophysiology from cortex
 - Multi-electrode array (MEA) recordings from organoids
 - Patch-clamp studies comparing properties
 - Calcium imaging studies
 
 **Search terms:**
+
 - "spontaneous activity cortex"
 - "organoid electrophysiology"
 - "MEA organoid"
@@ -511,6 +571,7 @@
 - "UP DOWN states"
 
 **Key recording methods:**
+
 - Multi-electrode arrays (MEAs)
 - Patch-clamp (whole-cell, cell-attached)
 - Calcium imaging (GCaMP, etc.)
@@ -523,6 +584,7 @@
 □ Comparison to age-matched cortical tissue
 
 **Expected findings to document:**
+
 - Presence/absence of synchronized bursting
 - Frequency ranges of oscillations
 - Firing rates (Hz)
@@ -533,6 +595,7 @@
 ### 3.2 Synaptic Transmission Properties
 
 **What to cover:**
+
 - Excitatory synaptic properties (AMPA, NMDA receptors)
 - Inhibitory synaptic properties (GABA_A, GABA_B)
 - Synaptic strength distributions
@@ -541,6 +604,7 @@
 - Neurotransmitter diversity
 
 **Evidence to search for:**
+
 - Patch-clamp studies of synaptic currents
 - Immunohistochemistry for receptors and synaptic proteins
 - Pharmacology studies
@@ -548,12 +612,14 @@
 - RNA-seq for receptor expression
 
 **Search terms:**
+
 - "synaptic transmission organoid"
 - "EPSC IPSC organoid"
 - "synaptic properties cortex"
 - "glutamate GABA organoid"
 
 **Key measurements:**
+
 - EPSC/IPSC amplitudes and kinetics
 - Paired-pulse ratios
 - Receptor expression levels
@@ -571,6 +637,7 @@
 ### 3.3 Network-Level Dynamics
 
 **What to cover:**
+
 - Emergence of network oscillations
 - Synchronization and phase relationships
 - Avalanche dynamics and criticality
@@ -578,18 +645,21 @@
 - Response to perturbations
 
 **Evidence to search for:**
+
 - MEA studies analyzing network properties
 - Computational analyses of population activity
 - Studies testing for critical dynamics
 - Perturbation experiments (optogenetics, pharmacology)
 
 **Search terms:**
+
 - "network dynamics organoid"
 - "criticality neuronal avalanches organoid"
 - "functional connectivity organoid"
 - "network oscillations"
 
 **Analysis methods to look for:**
+
 - Transfer entropy
 - Granger causality
 - Avalanche size distributions
@@ -608,6 +678,7 @@
 ### 3.4 Response to Stimulation
 
 **What to cover:**
+
 - Sensory-evoked responses in cortex
 - Stimulation responses in organoids (electrical, optogenetic, chemical)
 - Input-output relationships
@@ -615,18 +686,21 @@
 - Stimulus selectivity
 
 **Evidence to search for:**
+
 - Studies electrically stimulating organoids
 - Optogenetic stimulation experiments
 - Sensory physiology studies for comparison
 - Dose-response or intensity-response curves
 
 **Search terms:**
+
 - "electrical stimulation organoid"
 - "optogenetic organoid"
 - "evoked response"
 - "sensory cortex physiology"
 
 **Key experiments:**
+
 - Stimulus-response curves
 - Temporal integration windows
 - Adaptation time constants
@@ -643,12 +717,14 @@
 ### 3.5 Comparison of Functional Metrics
 
 **What to cover:**
+
 - Direct quantitative comparisons where available
 - Gaps where comparison data doesn't exist
 - Confounds (developmental stage, recording methods)
 - Summary of functional capabilities and limitations
 
 **Synthesis requirements:**
+
 - Create comparison tables
 - Meta-analysis approach if enough studies
 - Acknowledge heterogeneity and variability
@@ -661,6 +737,7 @@
 ### 4.1 Maturation Timeline and Developmental Stage
 
 **What to cover:**
+
 - Human cortical development timeline (fetal, postnatal, adolescent)
 - Organoid development timeline
 - Developmental markers (transcriptomic, cellular, functional)
@@ -668,12 +745,14 @@
 - Limits on organoid maturation
 
 **Evidence to search for:**
+
 - Developmental neuroscience papers on human cortex
 - Single-cell RNA-seq time-series
 - Organoid developmental characterization studies
 - Cross-species developmental comparisons
 
 **Search terms:**
+
 - "human cortical development timeline"
 - "organoid maturation"
 - "fetal cortex transcriptome"
@@ -681,6 +760,7 @@
 - "organoid age"
 
 **Key datasets:**
+
 - BrainSpan Atlas
 - Allen Developing Mouse Brain Atlas
 - Human Cell Atlas developmental data
@@ -701,6 +781,7 @@
 ### 4.2 Activity-Dependent Development
 
 **What to cover:**
+
 - Role of spontaneous activity in cortical development
 - Critical periods and experience-dependent plasticity
 - Absence of patterned input in organoids
@@ -708,6 +789,7 @@
 - Attempts to provide structured input to organoids
 
 **Evidence to search for:**
+
 - Studies on spontaneous activity in development
 - Sensory deprivation experiments (animals)
 - Critical period research
@@ -715,6 +797,7 @@
 - Activity-dependent gene expression
 
 **Search terms:**
+
 - "spontaneous activity development"
 - "critical period plasticity"
 - "activity-dependent development"
@@ -722,6 +805,7 @@
 - "organoid stimulation development"
 
 **Key concepts:**
+
 - Critical vs sensitive periods
 - Ocular dominance plasticity (as model)
 - Activity-dependent refinement
@@ -738,6 +822,7 @@
 ### 4.3 Epigenetic Landscape and Gene Expression
 
 **What to cover:**
+
 - Role of epigenetic regulation in cortical development
 - DNA methylation patterns
 - Histone modifications
@@ -745,18 +830,21 @@
 - Comparison of epigenetic landscapes: organoids vs tissue
 
 **Evidence to search for:**
+
 - ATAC-seq or ChIP-seq studies
 - DNA methylation studies (WGBS, RRBS)
 - Hi-C chromatin conformation studies
 - Comparative epigenomics papers
 
 **Search terms:**
+
 - "epigenetics cortical development"
 - "DNA methylation organoid"
 - "chromatin accessibility"
 - "ATAC-seq organoid brain"
 
 **Technologies to look for:**
+
 - ATAC-seq
 - ChIP-seq
 - Bisulfite sequencing
@@ -774,6 +862,7 @@
 ### 4.4 Growth Limitations and Long-Term Culture
 
 **What to cover:**
+
 - Maximum culture duration achieved
 - Plateau in development
 - Long-term viability challenges
@@ -781,18 +870,21 @@
 - Strategies to overcome limitations
 
 **Evidence to search for:**
+
 - Studies reporting culture durations
 - Papers characterizing "aged" organoids
 - Viability and health assessments over time
 - Novel culture methods for extended maintenance
 
 **Search terms:**
+
 - "long-term organoid culture"
 - "organoid aging"
 - "extended culture organoid"
 - "organoid viability"
 
 **Data to extract:**
+
 - Maximum culture times reported
 - Changes in viability over time
 - Developmental progression vs plateau
@@ -809,12 +901,14 @@
 ### 4.5 Developmental Constraints on Computation
 
 **What to cover:**
+
 - How developmental stage affects computational metrics
 - Whether organoids can reach adult-like function
 - Specific computational capabilities that emerge with maturation
 - Implications for comparisons with adult cortex
 
 **Synthesis required:**
+
 - Integrate previous subsections
 - Connect developmental stage to functional capabilities
 - Identify which limitations are fundamental vs addressable
@@ -826,6 +920,7 @@
 ### 5.1 Information Theory Metrics Applied to Organoids
 
 **What to cover:**
+
 - Entropy measurements in organoid activity
 - Mutual information between neurons
 - Transfer entropy and directed information flow
@@ -833,18 +928,21 @@
 - Technical challenges in applying these metrics
 
 **Evidence to search for:**
+
 - Papers applying information theory to organoid data
 - Comparative studies between systems
 - Methods papers on neural information theory
 - Validation studies
 
 **Search terms:**
+
 - "information theory organoid"
 - "entropy neural activity"
 - "mutual information neurons"
 - "transfer entropy"
 
 **Key metrics to calculate/report:**
+
 - Shannon entropy of spike trains
 - Mutual information (bits/spike)
 - Transfer entropy between neuron pairs
@@ -865,6 +963,7 @@
 ### 5.2 Graph Theory Analysis of Network Topology
 
 **What to cover:**
+
 - Functional connectivity graphs from MEA data
 - Structural connectivity if available (EM)
 - Clustering coefficient, path length, modularity
@@ -873,18 +972,21 @@
 - Comparison to cortical networks
 
 **Evidence to search for:**
+
 - MEA studies with network analysis
 - Functional connectivity papers
 - Graph theory analyses
 - Comparative network studies
 
 **Search terms:**
+
 - "graph theory organoid"
 - "functional connectivity organoid"
 - "network topology"
 - "small-world brain"
 
 **Graph metrics to report:**
+
 - Clustering coefficient
 - Characteristic path length
 - Modularity (Q)
@@ -903,6 +1005,7 @@
 ### 5.3 Computational Modeling and Simulation
 
 **What to cover:**
+
 - Biophysical models of organoid networks
 - Comparison to models of cortical circuits
 - Estimates of computational capacity from models
@@ -910,18 +1013,21 @@
 - Validation of models against experimental data
 
 **Evidence to search for:**
+
 - Modeling papers using organoid-derived parameters
 - Circuit modeling papers
 - Whole-brain simulation efforts
 - Model validation studies
 
 **Search terms:**
+
 - "computational model organoid"
 - "neural network simulation"
 - "biophysical model cortex"
 - "spiking network model"
 
 **Model types:**
+
 - Single neuron models (Hodgkin-Huxley, LIF, etc.)
 - Network models (E-I networks)
 - Mean-field models
@@ -938,6 +1044,7 @@
 ### 5.4 Benchmark Tasks and Performance Metrics
 
 **What to cover:**
+
 - Can organoids perform computational tasks?
 - Closed-loop systems and feedback learning
 - Comparison to artificial neural networks
@@ -945,18 +1052,21 @@
 - Pattern recognition capabilities
 
 **Evidence to search for:**
+
 - Papers on organoid "training" or learning
 - Closed-loop organoid systems
 - Reservoir computing with biological neurons
 - Comparison studies (biological vs artificial)
 
 **Search terms:**
+
 - "organoid learning"
 - "closed-loop organoid"
 - "reservoir computing biological"
 - "organoid computation tasks"
 
 **Potential benchmarks:**
+
 - Pattern classification
 - Temporal sequence learning
 - Signal prediction
@@ -977,6 +1087,7 @@
 ### 5.5 Quantitative Summary and Limitations
 
 **What to cover:**
+
 - Summary table of all quantitative comparisons
 - Effect sizes and confidence intervals where available
 - Identified gaps in quantitative data
@@ -984,6 +1095,7 @@
 - Limitations of current quantitative approaches
 
 **Synthesis:**
+
 - Meta-analytic approach if possible
 - Forest plots for comparable metrics
 - Identify heterogeneity sources
@@ -996,6 +1108,7 @@
 ### 6.1 Measurement and Recording Constraints
 
 **What to cover:**
+
 - Sampling limitations (can't record all neurons)
 - Spatial resolution of different techniques
 - Temporal resolution trade-offs
@@ -1003,18 +1116,21 @@
 - Comparison of measurement approaches
 
 **Evidence to search for:**
+
 - Methods papers comparing recording techniques
 - Studies on recording artifacts and limitations
 - Papers on sampling biases
 - Technical validation studies
 
 **Search terms:**
+
 - "multi-electrode array limitations"
 - "calcium imaging temporal resolution"
 - "sampling bias neural recording"
 - "recording artifacts"
 
 **Techniques to compare:**
+
 - Patch-clamp (gold standard, low throughput)
 - MEA (moderate throughput, limited resolution)
 - Calcium imaging (high throughput, slow)
@@ -1031,6 +1147,7 @@
 ### 6.2 Organoid Variability and Reproducibility
 
 **What to cover:**
+
 - Batch-to-batch variability
 - Protocol-dependent differences
 - Within-batch heterogeneity
@@ -1038,18 +1155,21 @@
 - Standardization efforts
 
 **Evidence to search for:**
+
 - Studies explicitly measuring variability
 - Protocol comparison papers
 - Quality control studies
 - Multi-lab validation efforts
 
 **Search terms:**
+
 - "organoid variability"
 - "reproducibility organoid"
 - "protocol comparison organoid"
 - "standardization brain organoid"
 
 **Sources of variability:**
+
 - Cell line differences (iPSC vs ESC, donors)
 - Media and growth factor variations
 - Culture conditions (bioreactors, shaking, static)
@@ -1066,6 +1186,7 @@
 ### 6.3 Absence of Complete Maturation
 
 **What to cover:**
+
 - Evidence that organoids don't fully mature
 - Missing developmental milestones
 - Comparison to adult tissue limitations
@@ -1073,18 +1194,21 @@
 - Can we extrapolate to adult-like function?
 
 **Evidence to search for:**
+
 - Papers comparing organoid to fetal vs adult tissue
 - Studies on markers of maturity
 - Longitudinal studies tracking maturation
 - Papers on induced maturation approaches
 
 **Search terms:**
+
 - "organoid maturation limits"
 - "fetal vs adult cortex"
 - "induced maturation organoid"
 - "developmental arrest organoid"
 
 **Maturity markers:**
+
 - Transcriptomic signatures
 - Synaptic density and type
 - Myelination
@@ -1102,6 +1226,7 @@
 ### 6.4 Isolation Effects and Missing Inputs
 
 **What to cover:**
+
 - Normal thalamic and subcortical inputs
 - Absence of these in organoids
 - Effects of deafferentation on cortical development
@@ -1109,18 +1234,21 @@
 - Assembloid approaches to address this
 
 **Evidence to search for:**
+
 - Connectional anatomy papers
 - Deafferentation studies
 - Sensory deprivation effects
 - Assembloid papers (cortical + subcortical)
 
 **Search terms:**
+
 - "thalamic input cortex"
 - "deafferentation cortex"
 - "assembloid thalamus cortex"
 - "subcortical input development"
 
 **Missing inputs:**
+
 - Thalamic relay neurons
 - Cholinergic basal forebrain
 - Dopaminergic midbrain
@@ -1138,6 +1266,7 @@
 ### 6.5 Methodological Best Practices and Recommendations
 
 **What to cover:**
+
 - Recommendations for standardized measurements
 - Minimum reporting standards
 - Best practices for comparisons
@@ -1145,12 +1274,14 @@
 - Preregistration and open science
 
 **Evidence from:**
+
 - Consensus statements
 - Methods comparison studies
 - Reproducibility studies
 - Best practice guidelines
 
 **Search for:**
+
 - ISSCR guidelines
 - Multi-lab validation studies
 - Reporting standard proposals
@@ -1163,6 +1294,7 @@
 ### 7.1 Structural Constraints and Their Computational Impact
 
 **What to cover:**
+
 - Quantitative estimates of impact where possible
 - Cell density → network size → computational capacity
 - Connectivity → information flow → computational capability
@@ -1170,12 +1302,14 @@
 - Ranking constraints by impact
 
 **Synthesis approach:**
+
 - Draw from all structural sections
 - Create computational models linking structure to function
 - Estimate effect sizes
 - Acknowledge uncertainties
 
 **Key calculations to include:**
+
 - If 10-100x fewer cells, how does this affect...
   - Network states available?
   - Information capacity?
@@ -1187,12 +1321,14 @@
 ### 7.2 Functional Constraints and Computational Implications
 
 **What to cover:**
+
 - Activity patterns and computational repertoire
 - Synaptic properties and integration capability
 - Plasticity and learning capacity
 - How functional limitations translate to computational limits
 
 **Integration:**
+
 - Synthesize functional comparison sections
 - Link to computational capability definitions
 - Quantify where possible
@@ -1202,12 +1338,14 @@
 ### 7.3 Developmental Stage and Its Confounding Effects
 
 **What to cover:**
+
 - How much of the "deficit" is due to developmental stage?
 - What would fetal cortex comparison show?
 - Can we separate developmental from fundamental constraints?
 - Trajectory extrapolation attempts
 
 **Analysis:**
+
 - Compare organoid-to-fetal vs organoid-to-adult gaps
 - Estimate developmental contribution
 - Assess which constraints are fixable with maturation
@@ -1217,12 +1355,14 @@
 ### 7.4 Measurement Limitations and True Unknowns
 
 **What to cover:**
+
 - What can't we measure in either system?
 - How measurement limitations bias comparisons
 - Unknown unknowns
 - Where better technology would help
 
 **Critical assessment:**
+
 - Acknowledge epistemological limits
 - Distinguish "no evidence of" from "evidence of no"
 - Identify research needs
@@ -1232,12 +1372,14 @@
 ### 7.5 Integrated Constraint Summary
 
 **What to cover:**
+
 - Multi-dimensional comparison (radar plots, etc.)
 - Overall computational capability estimate with uncertainties
 - Context-dependent conclusions
 - Final assessment of constraint strength
 
 **Deliverables:**
+
 - Summary figure/table
 - Quantitative estimates with confidence ranges
 - Narrative synthesis
@@ -1250,6 +1392,7 @@
 ### 8.1 Vascularized Organoids and Enhanced Viability
 
 **What to cover:**
+
 - Current approaches to vascularization
 - Organ-on-chip technologies
 - Co-culture with endothelial cells
@@ -1257,18 +1400,21 @@
 - Early results and promise
 
 **Evidence to search for:**
+
 - Vascularized organoid papers
 - Organ-on-chip studies
 - Transplantation studies
 - Microfluidic systems
 
 **Search terms:**
+
 - "vascularized organoid"
 - "organ-on-chip brain"
 - "organoid transplantation"
 - "perfused organoid"
 
 **Key developments:**
+
 - Methods for inducing vasculature
 - Functional validation of blood vessels
 - Size improvements achieved
@@ -1285,6 +1431,7 @@
 ### 8.2 Assembloids and Regional Integration
 
 **What to cover:**
+
 - Multi-region assembloids
 - Cortical-subcortical assembloids
 - Evidence of functional integration
@@ -1292,12 +1439,14 @@
 - Potential to restore missing inputs
 
 **Evidence to search for:**
+
 - Assembloid papers (cortex-striatum, cortex-thalamus, etc.)
 - Fusion and integration studies
 - Tract tracing in assembloids
 - Functional studies of assembloids
 
 **Search terms:**
+
 - "assembloid"
 - "multi-region organoid"
 - "fused organoid"
@@ -1314,6 +1463,7 @@
 ### 8.3 Closed-Loop Stimulation and Training Paradigms
 
 **What to cover:**
+
 - Closed-loop systems for organoids
 - Sensory-motor-like feedback
 - Reinforcement learning approaches
@@ -1321,18 +1471,21 @@
 - Embodied approaches (robots controlled by organoids)
 
 **Evidence to search for:**
+
 - Closed-loop organoid papers
 - DishBrain and similar systems
 - Reinforcement learning with biological neurons
 - Bio-hybrid systems
 
 **Search terms:**
+
 - "closed-loop organoid"
 - "DishBrain"
 - "organoid learning"
 - "biological neural network training"
 
 **Important demonstrations:**
+
 - Learning curves
 - Generalization
 - Memory retention
@@ -1349,6 +1502,7 @@
 ### 8.4 Advanced Characterization Technologies
 
 **What to cover:**
+
 - Emerging recording technologies
 - High-density MEAs
 - All-optical interrogation
@@ -1357,12 +1511,14 @@
 - Machine learning for analysis
 
 **Evidence to search for:**
+
 - New technology papers
 - Proof-of-concept demonstrations
 - Applications to organoids
 - Comparative technology assessments
 
 **Search terms:**
+
 - "high-density MEA"
 - "all-optical electrophysiology"
 - "spatial transcriptomics"
@@ -1370,6 +1526,7 @@
 - "machine learning organoid"
 
 **Technologies to cover:**
+
 - Neuropixels-like probes adapted for organoids
 - Genetically encoded indicators (GEVI, GECI)
 - Expansion microscopy
@@ -1387,6 +1544,7 @@
 ### 8.5 Engineered Organoids with Defined Properties
 
 **What to cover:**
+
 - Genetic engineering approaches
 - Optogenetic toolkits
 - Directed differentiation protocols
@@ -1394,18 +1552,21 @@
 - Synthetic biology approaches
 
 **Evidence to search for:**
+
 - Papers engineering organoids for specific functions
 - Gene editing in organoids (CRISPR, etc.)
 - Optogenetic tool expression
 - Directed differentiation papers
 
 **Search terms:**
+
 - "engineered organoid"
 - "CRISPR organoid"
 - "optogenetics organoid"
 - "directed differentiation cortex"
 
 **Applications:**
+
 - Disease modeling improvements
 - Computational applications
 - Circuit dissection
@@ -1422,6 +1583,7 @@
 ### 8.6 Computational Applications and Biocomputing
 
 **What to cover:**
+
 - Organoid computing prospects
 - Advantages over silicon (energy, learning, etc.)
 - Realistic applications vs hype
@@ -1429,18 +1591,21 @@
 - Technical barriers to overcome
 
 **Evidence to search for:**
+
 - Position papers on biological computing
 - Proof-of-concept demonstrations
 - Comparative analyses (bio vs silicon)
 - Ethics papers on organoid intelligence
 
 **Search terms:**
+
 - "organoid computing"
 - "biological computer"
 - "neuromorphic organoid"
 - "organoid intelligence ethics"
 
 **Critical analysis needed:**
+
 - Realistic assessment of timeline
 - Fundamental barriers vs engineering challenges
 - Ethical frameworks
@@ -1451,6 +1616,7 @@
 ### 8.7 Standardization and Collaborative Efforts
 
 **What to cover:**
+
 - Need for standardization
 - Multi-lab consortia
 - Open data and methods sharing
@@ -1458,18 +1624,21 @@
 - Regulatory and ethical frameworks
 
 **Evidence to search for:**
+
 - Consortium papers and initiatives
 - Standardization proposals
 - Data sharing platforms
 - Ethical guidelines
 
 **Search terms:**
+
 - "organoid standardization"
 - "brain organoid consortium"
 - "open data organoid"
 - "organoid ethics"
 
 **Key initiatives:**
+
 - ISSCR guidelines
 - NIH BRAIN Initiative
 - Human Cell Atlas
@@ -1480,6 +1649,7 @@
 ### 8.8 Research Priorities and Roadmap
 
 **What to cover:**
+
 - Most impactful research directions
 - Low-hanging fruit vs long-term goals
 - Resource allocation considerations
@@ -1487,6 +1657,7 @@
 - Training and workforce
 
 **Synthesis:**
+
 - Draw from all previous future directions
 - Prioritize based on impact and feasibility
 - Identify synergies
@@ -1499,6 +1670,7 @@
 ### Evidence Quality Tiers to Note Throughout
 
 **Tier 1 (Strong):**
+
 - Multiple independent labs
 - Replicated findings
 - Convergent methods
@@ -1506,12 +1678,14 @@
 - Controls appropriate
 
 **Tier 2 (Moderate):**
+
 - Single lab or limited replication
 - One method
 - Some quantification
 - Basic controls
 
 **Tier 3 (Weak):**
+
 - Anecdotal observations
 - No replication
 - Qualitative only
@@ -1530,6 +1704,7 @@
 ### Evidence Gap Documentation
 
 For EACH section, create a subsection noting:
+
 - Where evidence is strong (>2 independent high-quality studies)
 - Where evidence is weak or contradictory
 - Where evidence is absent
@@ -1538,6 +1713,7 @@ For EACH section, create a subsection noting:
 ### Meta-Analysis Considerations
 
 If sufficient studies exist:
+
 - Extract quantitative data systematically
 - Calculate effect sizes
 - Assess heterogeneity (I²)
@@ -1547,12 +1723,14 @@ If sufficient studies exist:
 ### Key Databases and Resources
 
 **Literature:**
+
 - PubMed/MEDLINE
 - Google Scholar
 - bioRxiv/medRxiv preprints
 - Web of Science
 
 **Data:**
+
 - Allen Brain Atlas
 - Human Cell Atlas
 - BrainSpan
@@ -1560,6 +1738,7 @@ If sufficient studies exist:
 - Single Cell Portal
 
 **Protocols:**
+
 - protocols.io
 - Nature Protocols
 - JoVE
@@ -1567,6 +1746,7 @@ If sufficient studies exist:
 ### Critical Evaluation Framework
 
 For each piece of evidence, assess:
+
 1. **Sample size** - adequate power?
 2. **Methods** - appropriate for question?
 3. **Controls** - proper controls included?
@@ -1596,6 +1776,7 @@ For each piece of evidence, assess:
 ### Tables and Figures to Create
 
 **Suggested Tables:**
+
 1. Structural comparison summary
 2. Functional metrics comparison
 3. Cell type composition
@@ -1603,6 +1784,7 @@ For each piece of evidence, assess:
 5. Quantitative constraints summary
 
 **Suggested Figures:**
+
 1. Schematic of organoid vs cortex structure
 2. Developmental timeline comparison
 3. Radar plot of computational capabilities
@@ -1617,28 +1799,33 @@ For each piece of evidence, assess:
 For each section, use this systematic approach:
 
 ### Phase 1: Broad Scoping
+
 1. Start with review articles in Annual Reviews, Nature Reviews, Trends
 2. Identify key papers from review reference lists
 3. Use forward citation searching on seminal papers
 
 ### Phase 2: Focused Searching
+
 1. Use specific search terms in PubMed
 2. Filter by publication date (last 10 years, with key older papers)
 3. Use MeSH terms for precision
 4. Search preprint servers for very recent work
 
 ### Phase 3: Grey Literature
+
 1. Conference abstracts (SfN, Gordon conferences)
 2. Registered reports and protocols
 3. Failed replications and negative results
 
 ### Phase 4: Data Extraction
+
 1. Create systematic extraction spreadsheet
 2. Note: study design, sample size, methods, key findings, limitations
 3. Calculate effect sizes where possible
 4. Assess risk of bias
 
 ### Phase 5: Evidence Synthesis
+
 1. Group similar studies
 2. Calculate summary statistics if appropriate
 3. Assess consistency across studies
@@ -1667,6 +1854,7 @@ Before finalizing each section, verify:
 ## WORKING NOTES SECTION
 
 Use this space to track:
+
 - Papers to follow up on
 - Experts to consult
 - Data requests needed
@@ -1679,6 +1867,7 @@ Use this space to track:
 ## COLLABORATION PLAN
 
 Given the scope, consider:
+
 - Dividing sections among co-authors
 - Expert consultation for specialized topics
 - Statistical/meta-analysis support
@@ -1691,6 +1880,7 @@ Given the scope, consider:
 END OF TEMPLATE
 
 **Next Steps:**
+
 1. Begin systematic literature searches for Section 1
 2. Create reference management database
 3. Develop data extraction spreadsheet

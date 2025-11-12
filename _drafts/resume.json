@@ -94,29 +94,12 @@
     {
       "name": "Neuroscience & Electrophysiology",
       "level": "",
-      "keywords": [
-        "Silicon probe recordings",
-        "SpikeInterface",
-        "Kilosort4",
-        "Population dynamics",
-        "Optogenetics",
-        "IOM",
-        "EEG/MEG"
-      ]
+      "keywords": ["Silicon probe recordings", "SpikeInterface", "Kilosort4", "Population dynamics", "Optogenetics", "IOM", "EEG/MEG"]
     },
     {
       "name": "Data & ML",
       "level": "",
-      "keywords": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "PostgreSQL",
-        "R",
-        "MNE-Python",
-        "GitHub",
-        "VS Code"
-      ]
+      "keywords": ["Python", "PyTorch", "TensorFlow", "PostgreSQL", "R", "MNE-Python", "GitHub", "VS Code"]
     }
   ],
   "projects": [
@@ -124,11 +107,7 @@
       "name": "HIPPIE",
       "url": "https://github.com/aghatpande/HIPPIE•Cell",
       "summary": "Open research and tooling around cell assemblies and neural population analysis; contributions showcased at NeuroDataRehack 2025.",
-      "highlights": [
-        "DANDI datasets",
-        "Domain adaptation",
-        "Assembly detection"
-      ]
+      "highlights": ["DANDI datasets", "Domain adaptation", "Assembly detection"]
     }
   ]
 }
