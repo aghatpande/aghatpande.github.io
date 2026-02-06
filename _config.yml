@@ -206,7 +206,6 @@ exclude:
   - _projects/8_project.md
   - _projects/9_project.md
   - _pages/books.md
-  - _pages/cv.md
   - _pages/dropdown.md
   - _pages/news.md
   - _pages/profiles.md
