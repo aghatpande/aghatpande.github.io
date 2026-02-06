@@ -1,1 +1,1 @@
-Welcome! This site is under heavy construction. I'll soon be adding a project summary related to spike sorting and automated curation and a blog post about brain organoids. See you back soon!
+Welcome! This site is under heavy construction. Currently you can view my cv and it liks to my google scholar profile as well. I'll add more content about brain organoids and related topics as quickly as I can which is slow since I'm working on many. Also promise, minimal AI slop!
