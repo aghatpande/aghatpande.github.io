@@ -1,7 +1,8 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # hides from homepage nav bar
+sitemap: false # hides but keeps boilerplate at URL
 nav_order: 8
 dropdown: true
 children:

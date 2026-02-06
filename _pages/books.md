@@ -2,7 +2,8 @@
 layout: book-shelf
 title: bookshelf
 permalink: /books/
-nav: false
+nav: false # hides from homepage nav bar
+sitemap: false # hides but keeps boilerplate at URL
 collection: books
 ---
 
