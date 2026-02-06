@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: "Ambarish S. Ghatpande, PhD"
+      value: "Ambarish S. Ghatpande"
     - name: Email
       value: '<a href="mailto:aghatpande@gmail.com">aghatpande@gmail.com</a>'
     - name: Google Scholar
       value: '<a href="https://scholar.google.com/citations?hl=en&user=wXXa7wMAAAAJ">Scholar profile</a>'
 
-- title: Academic Profile
+- title: Professional Profile
   type: list
   contents:
     - "Biophysicist and neuroscientist with experience spanning ion channel biophysics, neuromodulation, sensory circuit physiology, and population-level neural dynamics."
