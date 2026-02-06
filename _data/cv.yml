@@ -1,3 +1,82 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: "Ambarish S. Ghatpande, PhD"
+    - name: Email
+      value: '<a href="mailto:aghatpande@gmail.com">aghatpande@gmail.com</a>'
+    - name: Google Scholar
+      value: '<a href="https://scholar.google.com/citations?hl=en&user=wXXa7wMAAAAJ">Scholar profile</a>'
+
+- title: Academic Profile
+  type: list
+  contents:
+    - "Biophysicist and neuroscientist with experience spanning ion channel biophysics, neuromodulation, sensory circuit physiology, and population-level neural dynamics."
+    - "Recent work focuses on large-scale extracellular recordings from human cortical and hippocampal organoids, in vitro and post-transplantation."
+    - "Developed end-to-end pipelines for silicon probe recordings, spike sorting (Kilosort4), and computational population analysis using open-source Python tools."
+    - "Early work on sodium and cyclic nucleotide–gated ion channels, followed by studies of cholinergic and nitric oxide signaling in olfactory bulb circuits."
+
+- title: Education
+  type: time_table
+  contents:
+    - title: "PhD, Molecular Biophysics"
+      institution: "Indian Institute of Science, Bangalore"
+      year: "1993–2000"
+    - title: "M.Sc., Zoology"
+      institution: "Savitribai Phule Pune University"
+      year: "1991–1993"
+    - title: "B.Sc., Microbiology"
+      institution: "Savitribai Phule Pune University"
+      year: "1988–1991"
+
+- title: Appointments (Academic / Research)
+  type: time_table
+  contents:
+    - title: "Senior Research Investigator"
+      institution: "University of Pennsylvania, Department of Neurosurgery"
+      year: "2023–2025"
+    - title: "Research Associate"
+      institution: "University of Maryland, Baltimore"
+      year: "2011–2012"
+    - title: "Research Associate"
+      institution: "Monell Chemical Senses Center, Philadelphia"
+      year: "2005–2011"
+    - title: "Postdoctoral Fellow"
+      institution: "University of Colorado, Denver"
+      year: "1999–2005"
+
+- title: Appointments (Non-academic)
+  type: time_table
+  contents:
+    - title: "Surgical Neurophysiologist II & III"
+      institution: "Sentient Medical Systems & SpecialtyCare"
+      year: "2015–2021"
+
+- title: Selected Publications
+  type: list
+  contents:
+    - 'Ghatpande A.S., Sikdar S.K. (1997). <em>Competition for binding between veratridine and KIFMK</em>. Journal of Membrane Biology.'
+    - 'Ghatpande A.S., Sikdar S.K. (1999). <em>Voltage-dependent gating of veratridine-modified sodium channels</em>. Pflügers Archiv.'
+    - 'Ghatpande A.S. et al. (2006). <em>Store calcium mediates cholinergic effects on mIPSCs</em>. Journal of Neurophysiology.'
+    - 'Ghatpande A.S., Gelperin A. (2009). <em>Presynaptic muscarinic receptors enhance glutamate release</em>. Journal of Neurophysiology.'
+    - 'McQuade L.E. et al. (2010). <em>Visualization of nitric oxide production in olfactory bulb</em>. PNAS.'
+    - 'Ghatpande A.S., Reisert J. (2011). <em>Olfactory receptor neuron responses and rapid odor sampling</em>. Journal of Physiology.'
+
+- title: Conference Presentations
+  type: time_table
+  contents:
+    - title: "Poster — Cell Symposia: Engineering Development and Disease in Organoids"
+      year: "2024"
+    - title: "Poster — NIH BRAIN Initiative Conference"
+      year: "2024"
+    - title: "Poster — Society for Neuroscience"
+      year: "2008"
+
+- title: Teaching & Mentorship
+  type: list
+  contents:
+    - "Mentored graduate students, postdoctoral fellows, and technicians in electrophysiology and data analysis."
+    - "Teaching workshop instructor, National Centre for Biological Sciences, Bangalore."
 - title: Honors and Awards
   type: time_table
   contents:
